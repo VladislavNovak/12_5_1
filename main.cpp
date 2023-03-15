@@ -6,7 +6,7 @@ using std::endl;
 using std::string;
 
 int main() {
-    const int MAX_COUNT = 4;
+    const int MAX_COUNT = 10;
     string familyNames[MAX_COUNT];
 
     for (int i = 0; i < MAX_COUNT; ++i) {
